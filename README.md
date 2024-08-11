@@ -7,7 +7,7 @@ This Repository contains implementation of simple neural network using a synthet
 - [Introduction](#Introduction)
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
-- [Requirements].(#Requirements).
+- [Requirements]_(#Requirements).
 - [Results](#Results)
 - [Acknowledgements](#Acknowledgements)
 
